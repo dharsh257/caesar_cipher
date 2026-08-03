@@ -23,4 +23,8 @@ The **Caesar Cipher** is a type of substitution cipher where each letter in the 
 Plaintext:  HELLO
 Shift:      3
 Ciphertext: KHOOR
+## ▶️ How to Run
 
+```bash
+py caesar_cipher.py
+```
